@@ -1,14 +1,6 @@
-# Gabriel Menezes
+# Gabriel Menezes 😎
 
-[![Linkedin Badge](https://img.shields.io/badge/-GabrielMenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnzs)](https://www.linkedin.com/in/mnzs/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielsmenezes99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsmenezes99@gmail.com)](mailto:gabrielsmenezes99@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mnzs.dev/?hl=en) 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnzs/) 
 
-## What's up my friends 👋
-I'm Gabriel Menezes.
-I'm a full stack developer :computer:
-
-- :bomb:   I’m currently working at **Estúdio La.Bomba**
-- :heart:   React Native and ReactJS
-- :computer:   ReactJS, Node, React Native, Typescript
-
-- 💬   Ask me about: tech, games, movies
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnzsss&theme=dracula&show_icons=true&count_private=true" />
