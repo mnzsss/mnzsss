@@ -7,7 +7,7 @@ Full Stack Developer focused on **Front-end**, passionate about **UI/UX**, perfo
 
 ## ✨ About me
 
-I’m a developer with almost 5 years of experience, originally from a design background, now fully immersed in the front-end world. I build **intuitive, accessible, and high-performance interfaces**, combining creativity and engineering.
+I’m a developer with almost 5+ years of experience, originally from a design background, now fully immersed in the front-end world. I build **intuitive, accessible, and high-performance interfaces**, combining creativity and engineering.
 
 My main stack includes:
 
